@@ -1,4 +1,4 @@
-``` mindmap
+```` mindmap
   root((🚀 Stellar Burgers))
     Must-Have Q1
       Аутентификация JWT
@@ -10,4 +10,4 @@
     Could-Have Q3
       Промо-акции и Скидки
       Интерактивная карта
-```
+````
